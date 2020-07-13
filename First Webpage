@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <title>My First WebPage</title>
+         <style>
+             body{
+                background-image: url('poetry.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size:100% 100%;
+            }
+             h1{
+                 text-align: center;
+                 text-shadow: rgb(19, 18, 18);
+                 color:blue;
+                 font-size:300%
+             }
+             h2{
+                 text-align: center;
+                 background-color: blanchedalmond;
+             }
+             p{
+                 color:black;
+                 font-size: 150%;
+             }
+             h3{
+                 background-color: blanchedalmond;
+                 color:red;
+             }
+
+         </style>
+</head>
+<body>
+    <h1>Welcome to my website</h1>
+    <h2>This webite is created for poetry lovers. Here you can write and post your poem as well as you can read  </h2>
+    <p>Poetry (derived from the Greek poiesis, "making") is a form of literature that uses aesthetic and often rhythmic
+     qualities of language—such as phonaesthetics, sound symbolism, and metre—to evoke meanings in addition to,
+      or in place of, the prosaic ostensible meaning.</p>
+    <img src="336da5aed821e80ffc745e9ab80827df.jpg">
+    <p>You can see a picture above ,this picutre is of one of the famous poet in India Ravindra Nath Tagore.<br>
+      A Indian poet who changed the defination of poetry .He wrote the Indian national anthem "Jan Gan Man".
+    </p>
+    <h3> Note: Stay tuned with us website is coming soon.</h3>
+</body>
+</html>
